@@ -1,5 +1,6 @@
+
 body {
-    background-color: darkblue;
+    background-color: rgb(11, 126, 120);
     color: white;
     font-family: "Bodoni Moda SC", serif;
     display: flex;
@@ -10,17 +11,17 @@ body {
 }
 
 button {
-    background-color: rgb(255, 0, 234);
-    color: white;
+    background-color: lilac;
+    color: rgb(168, 11, 11);
     font-family: "Bai Jamjuree", sans-serif;
 }
 
 .passo {
-    display: none;
+    display:none;
 }
 
 .passo.ativo {
-    display: block;
+    display:block;
 }
 
 main {
@@ -30,4 +31,12 @@ main {
 
 img {
     max-width: 90%;
+    width: 700px;
 }
+
+img  {
+    max-width: 90%;
+    width: 500px;
+}
+
+
